@@ -52,4 +52,5 @@ Output: Cartoonified version saved as "cartoon_output.jpg"
     pip install opencv-python-headless
 
 ## License
+
 This project is open-source and free to use/modify/distribute.
