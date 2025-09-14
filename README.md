@@ -53,4 +53,4 @@ Output: Cartoonified version saved as "cartoon_output.jpg"
 
 ## License
 
-This project is open-source and free to use/modify/distribute.
+This project is open-source and free to use/modify/distribute. 
